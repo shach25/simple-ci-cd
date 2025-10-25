@@ -18,4 +18,4 @@ Created a pipeline job in Jenkins pointing to the GitHub repo.
 Triggered the pipeline → Jenkins automatically built, tested, and deployed the container.
 
 6.Verified Deployment:
-Opened http://<EC2-Public-IP>:8081 in the browser → HTML page displayed successfully.
+Opened http://ec2-Public-IP:8081 in the browser → HTML page displayed successfully.
